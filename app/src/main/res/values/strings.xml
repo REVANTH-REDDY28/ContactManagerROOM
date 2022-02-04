@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactManagerROOM</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="name">NAME</string>
+    <string name="number">Number</string>
+    <string name="save_contact">Save Contact</string>
+</resources>
